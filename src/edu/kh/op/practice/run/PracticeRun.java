@@ -1,4 +1,6 @@
-package edu.kh.op.practice;
+package edu.kh.op.practice.run;
+
+import edu.kh.op.practice.OperatorPractice;
 
 public class PracticeRun {
 
@@ -6,6 +8,8 @@ public class PracticeRun {
 		
 		OperatorPractice op = new OperatorPractice();
 		
+		//op.practice1();
+		//op.practice2();
 		op.practice3();
 
 	}
